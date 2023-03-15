@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100%;
+  background-image: url('./IMG/mf1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.calculator {
+  margin-top: 5cm;
+}
+
+

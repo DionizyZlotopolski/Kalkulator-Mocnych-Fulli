@@ -1,0 +1,22 @@
+.calculator {
+  margin: auto;
+  width: 400px;
+  height: 300px;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: calc(50% - 150px);
+  left: calc(50% - 200px);
+}
+
+body {
+  background-image: url('IMG/mf1.jpg');
+  background-size: 800px 600px;
+  background-position: center;
+}
